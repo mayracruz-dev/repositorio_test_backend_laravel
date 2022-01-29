@@ -1,0 +1,52 @@
+{
+	"vehiculos": [
+	
+		{
+		"id_vehiculo": 1,
+		"modelo": "Lada",
+		"no.placa": "HM-123",
+		"hora_entrada": "8:00am",
+		"hora_salida": "14:30pm",
+		"tiempo_estac":"6h30min",
+		"importe": "$189.00"
+
+		},
+		{
+			"id_vehiculo": 2,
+			"modelo": "Polski",
+			"no.placa": "HL-456",
+			"hora_entrada": "10:00am",
+			"hora_salida": "15:00pm",
+			"tiempo_estac":"5h",
+			"importe": "$150.00"
+	
+			},
+			{
+				"id_vehiculo": 3,
+				"modelo": "Lada",
+				"no.placa": "ZX-789",
+				"hora_entrada": "11:30am",
+				"hora_salida": "16:00pm",
+				"tiempo_estac":"5h30min",
+				"importe": "$159.00"
+		
+				}
+	],
+	
+	"modelo_vehiculos": [
+	
+		{
+		"id_modelo": 1,
+		"modelo": "Lada"
+	
+		},
+		{
+			"id_modelo": 2,
+			"modelo": "Polski"
+		
+			}
+	
+	]
+}	
+	
+	
